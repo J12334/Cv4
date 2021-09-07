@@ -51,13 +51,13 @@ h3{
 }*/
 
 .bottom-cloud{
-  position: absolute;
+  position: relative;
   bottom: 300px;
-  right: 900px;
+  right: auto;
 }
 
 .top-cloud{
-  position: absolute;
-  right: 300px;
+  position: relative;
+  left: 300px;
   top: 30px;
 }
